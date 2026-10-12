@@ -1,0 +1,6 @@
+{
+  "name": "绿色金融 - 数智化管理平台",
+  "description": "一个智能化的绿色金融后台管理系统，提供方法学管理、企业信息库及AI绿色信贷匹配功能。利用Gemini API实现政策解析、企业信息自动补全及智能匹配报告生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
